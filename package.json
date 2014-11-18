@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^4.10.2",
+    "imgr": "^0.10.2"
+  }
+}
